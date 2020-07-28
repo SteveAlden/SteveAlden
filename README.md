@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Alden</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevealden" alt="stevealden" /> </p>
+
 - 🔭 I’m currently working at **CloudThing**
 
 - 🌱 I’m currently learning **React**
