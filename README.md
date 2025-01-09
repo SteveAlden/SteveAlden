@@ -1,20 +1,51 @@
-# Hi 👋, I'm Steve Alden
-### A passionate full stack developer
+# Hi there! 👋
 
-- 🔭 I’m currently working at **CloudThing**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **open source**
-- 💬 Ask me about **React.js, Next.js, .Net, Azure**
-- 📫 How to reach me: [stevealden.dev@gmail.com](mailto:stevealden.dev@gmail.com)
+Welcome to my GitHub profile! I'm a **full-stack developer** passionate about crafting delightful user experiences and building innovative tools. Here's a little about me and what I love to do:
 
-![React](https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg) 
-![Next.js](https://raw.githubusercontent.com/vercel/next.js/canary/examples/api-routes-cors/public/nextjs-logo.png) 
-![JavaScript](https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg) 
-![TypeScript](https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg) 
-![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) 
-![.Net](https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg) 
-![Node.js](https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg)
+## 🚀 About Me
 
-![Steve Alden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevealden&show_icons=true)
+- 🌐 **Primary Stack:** Next.js, React, Tailwind CSS, and Azure.
+- 🤖 **Generative Projects:** Creator of [turbo/ui](https://turboui.vercel.app) – a generative UI app powered by LLMs to turn ideas into functional code.
+- 🛠️ **Developer Tools Enthusiast:** Building tools that simplify workflows and enhance developer productivity.
+- 🖌️ **Design Meets Code:** Bridging the gap between Figma designs and responsive, production-ready UIs.
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://linkedin.com/in/stevealden777)
+## 🧰 Tech Toolbox
+
+### Languages & Frameworks:
+- **Frontend:** TypeScript, JavaScript, React, Next.js
+- **Styling:** Tailwind CSS, CSS-in-JS
+- **Backend:** Node.js, Express, Azure Functions
+- **Authentication:** Clerk, Firebase Auth
+
+### Tools & Platforms:
+- **Version Control:** Git, GitHub
+- **Design Tools:** Figma
+- **Cloud Platforms:** Azure, Vercel
+- **Testing:** Jest, Cypress
+
+## 📂 Current Projects
+
+### turbo/ui
+A multimodal UI generator app that:
+- Generates code from text prompts, images, or Figma URLs.
+- Utilizes LLMs to craft React components with Tailwind CSS.
+- Enhances workflows for developers and designers.
+
+[Check out turbo/ui ➔](https://turboui.vercel.app)
+
+## ✨ Fun Facts
+- 🔍 I’m fascinated by the intersection of AI and design.
+- 🎨 I’m always striving to make codebases as clean and aesthetic as the UIs they power.
+- 💡 Sharing best practices and coding tips is my jam!
+
+## 📫 Get in Touch
+- **Portfolio:** [MyWebsite.com](https://stevealden.com)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/SteeveeAlden)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/stevealden777)
+- **Email:** aldensteve.777@gmail.com
+
+---
+
+### Thanks for stopping by! 🚀
+Feel free to explore my repositories or reach out for collaborations. Let’s build something amazing together!
+
