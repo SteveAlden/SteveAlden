@@ -39,7 +39,7 @@ A multimodal UI generator app that:
 - 💡 Sharing best practices and coding tips is my jam!
 
 ## 📫 Get in Touch
-- **Portfolio:** [MyWebsite.com](https://stevealden.com)
+- **Portfolio:** [stevealden.com](https://stevealden.com)
 - **Twitter:** [@SteeveeAlden](https://twitter.com/SteeveeAlden)
 - **LinkedIn:** [Steve Alden(https://linkedin.com/in/stevealden777)
 - **Email:** aldensteve.777@gmail.com
