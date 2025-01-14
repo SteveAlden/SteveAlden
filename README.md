@@ -40,8 +40,8 @@ A multimodal UI generator app that:
 
 ## 📫 Get in Touch
 - **Portfolio:** [MyWebsite.com](https://stevealden.com)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/SteeveeAlden)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/stevealden777)
+- **Twitter:** [@SteeveeAlden](https://twitter.com/SteeveeAlden)
+- **LinkedIn:** [Steve Alden(https://linkedin.com/in/stevealden777)
 - **Email:** aldensteve.777@gmail.com
 
 ---
