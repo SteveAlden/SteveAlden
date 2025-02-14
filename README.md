@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **full-stack developer** passionate about cr
 ## 🚀 About Me
 
 - 🌐 **Primary Stack:** Next.js, React, Tailwind CSS, and Azure.
-- 🤖 **Generative Projects:** Creator of [turbo/ui](https://turboui.vercel.app) – a generative UI app powered by LLMs to turn ideas into functional code.
+- 🤖 **Generative Projects:** Creator of [turbo/ui](https://turboui.stevealden.com) – a generative UI app powered by LLMs to turn ideas into functional code.
 - 🛠️ **Developer Tools Enthusiast:** Building tools that simplify workflows and enhance developer productivity.
 - 🖌️ **Design Meets Code:** Bridging the gap between Figma designs and responsive, production-ready UIs.
 
@@ -31,7 +31,7 @@ A multimodal UI generator app that:
 - Utilizes LLMs to craft React components with Tailwind CSS.
 - Enhances workflows for developers and designers.
 
-[Check out turbo/ui ➔](https://turboui.vercel.app)
+[Check out turbo/ui ➔](https://turboui.stevealden.com)
 
 ## ✨ Fun Facts
 - 🔍 I’m fascinated by the intersection of AI and design.
