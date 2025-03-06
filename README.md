@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **full-stack developer** passionate about crafting delightful user experiences and building innovative tools. Here's a little about me and what I love to do:
+I'm a **full-stack developer** passionate about crafting delightful user experiences and building innovative tools. Here's a little about me and what I love to do:
 
 ## 🚀 About Me
 
